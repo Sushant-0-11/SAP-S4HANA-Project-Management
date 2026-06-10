@@ -1,2 +1,3 @@
 # SAP-S4HANA-Project-Management
-Academic project demonstrating project planning, resource allocation, budgeting, and ERP implementation using SAP S/4HANA methodologies.
+This project simulates the planning and execution of an SAP S/4HANA implementation project. It includes project scheduling, resource planning, budgeting, risk assessment, and project monitoring activities.
+The project demonstrates the application of project management principles in an ERP implementation environment.
